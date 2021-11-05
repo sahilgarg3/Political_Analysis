@@ -8,6 +8,7 @@ _This_ dataset is scrapped especially for some one who wants to know more about 
 # [Constituency Analysis](Constituency_analysis.ipynb)
 
 **analysis** function take the name of the constituency as input and give all the useful analysis as output all at once.
+
 ---
 # [Candidate Analysis](Candidate_analysis.ipynb)
 ---
