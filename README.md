@@ -41,9 +41,11 @@ _This_ dataset is scrapped especially for some one who wants to know more about 
 - Candidates who all won the election
 ---
 ### Maximum number of winners from a single party (Top 20)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20W(1).png)
 ### Educational qualification of the candidates
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20W(2).png)
 ### Criminal Records of the winner candidates
 - Total Winning Candidates **1054**
 - Wining Candidates with criminal charges on them 0
 ### Age of the winner candidates
----
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20W(3).png)
