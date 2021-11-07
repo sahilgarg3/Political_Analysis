@@ -49,4 +49,3 @@ _This_ dataset is scrapped especially for some one who wants to know more about 
 - Wining Candidates with criminal charges on them 0
 ### Age of the winner candidates
 ![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20W(3).png)
----
