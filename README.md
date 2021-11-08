@@ -21,17 +21,17 @@ _This_ dataset is scrapped especially for some one who wants to know more about 
 - Number of qualifications = 12
 ---
 ### Maximum number of candidates participated by a single party (Max 20)
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(1).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(1).png)
 ### Educational Qualification of the all the candidates
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(2).png)
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(3).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(2).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(3).png)
 ### Criminal Records of the candidates
 - Total Candidates **27829**
 - Candidates with criminal charges on them **4559**
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(4).png)
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(5).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(4).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(5).png)
 ### Age of the candidates
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20(6).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20(6).png)
 
 ---
 # [Candidate Analysis of Winners](Candidate_analysis_of_winners.ipynb)
@@ -43,9 +43,9 @@ _This_ dataset is scrapped especially for some one who wants to know more about 
 ### Maximum number of winners from a single party (Top 20)
 ![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20W(1).png)
 ### Educational qualification of the candidates
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20W(2).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20W(2).png)
 ### Criminal Records of the winner candidates
 - Total Winning Candidates **1054**
 - Wining Candidates with criminal charges on them 0
 ### Age of the winner candidates
-![plot](https://github.com/sahilgarg3/Political_Analysis/blob/demo/Images/Image%20W(3).png)
+![plot](https://github.com/sahilgarg3/Political_Analysis/blob/main/Images/Image%20W(3).png)
